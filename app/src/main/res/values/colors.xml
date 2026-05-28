@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- EKO MEDIA Dark Palette -->
+    <color name="eko_bg">#0A0C10</color>
+    <color name="eko_surface">#111318</color>
+    <color name="eko_surface2">#181C24</color>
+    <color name="eko_border">#1F2533</color>
+    <color name="eko_accent">#00C8FF</color>
+    <color name="eko_accent_dark">#0090BB</color>
+    <color name="eko_accent2">#7B2FFF</color>
+    <color name="eko_text">#F0F4FF</color>
+    <color name="eko_text_dim">#8892AA</color>
+    <color name="eko_success">#00E676</color>
+    <color name="eko_error">#FF3D5A</color>
+    <color name="eko_warning">#FFB300</color>
+
+    <!-- Material required -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

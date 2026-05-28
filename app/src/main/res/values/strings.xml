@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EKO MEDIA</string>
+    <string name="hint_url">Paste video URL (YouTube, TikTok, Twitter…)</string>
+    <string name="btn_fetch">FETCH</string>
+    <string name="btn_download">DOWNLOAD</string>
+    <string name="btn_play">PLAY IN APP</string>
+    <string name="loading">Extracting video info…</string>
+    <string name="no_downloads">No downloads yet</string>
+</resources>
